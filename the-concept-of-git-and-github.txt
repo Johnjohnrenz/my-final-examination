@@ -1,0 +1,2 @@
+Git is the most commonly used Distributed Version Control System. It keeps a record of every change in a project by taking snapshots. It means that you can easily roll back to any previous version/state of a project. In 2005, Linus Torvalds released the first version of Git.Aug 21, 2020
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests. ... Create and use a Repository
